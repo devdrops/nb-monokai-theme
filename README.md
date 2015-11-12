@@ -1,6 +1,4 @@
-# nb-monokai-theme
-
-### Monokai theme for NetBeans IDE
+# Monokai theme for NetBeans IDE
 
 ![Image](Uploaded-Monokai.png)
 
